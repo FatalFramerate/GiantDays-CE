@@ -60,7 +60,7 @@ Compatibility
 The project aims to support:
 
 Cataclysm: Bright Nights (CBN)
-
+Cataclysm: Dark Days Ahead (CDDA)
 Cataclysm: The Last Generation (CTLG)
 
 Compatibility will be tested individually and documented as development progresses. Right now, Cataclysm: Dark Days Ahead is pulling the wrong tiles, and I will look into that after perfecting what I'm working on.
